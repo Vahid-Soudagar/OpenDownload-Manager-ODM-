@@ -17,7 +17,7 @@
 - 🧱 Works on **Windows, macOS, and Linux**
 - 🛠️ Command-line and optional GUI interface (PyQt/Web)
 
----
+---https://fixdownload.com/software/internet-tools/download-managers/internet-download-manager-idm-download/
 
 ## ❌ Problems Solved Compared to IDM
 
@@ -87,7 +87,5 @@ We welcome your contributions!
 Submit pull requests for fixes or features
 
 Open issues to report bugs or idea
-
-https://fixdownload.com/software/internet-tools/download-managers/internet-download-manager-idm-download/
 
 Help improve cross-platform support
